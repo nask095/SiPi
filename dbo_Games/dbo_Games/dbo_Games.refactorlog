@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="52d50ad2-abcc-4602-9603-7a3814c03357" ChangeDateTime="12/20/2015 19:32:00">
+    <Property Name="ElementName" Value="[dbo].[Games].[Coeff]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Games]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Coeff1" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1ebf38c4-5217-44c4-8bea-792a0379f372" ChangeDateTime="12/20/2015 19:32:13">
+    <Property Name="ElementName" Value="[dbo].[Games].[Coeff1]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Games]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Coeff_1" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="685eeec8-5c82-4b53-880a-4f7af9aee3b5" ChangeDateTime="12/20/2015 19:33:20">
+    <Property Name="ElementName" Value="[dbo].[Games].[Coeff O1.5]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Games]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Coeff_O1.5" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="925f5a41-fd66-42e4-bbdd-45d06b270503" ChangeDateTime="12/20/2015 19:33:23">
+    <Property Name="ElementName" Value="[dbo].[Games].[Coeff O2.5]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Games]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Coeff_O2.5" />
+  </Operation>
+</Operations>

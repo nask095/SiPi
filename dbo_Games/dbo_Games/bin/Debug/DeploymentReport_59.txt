@@ -1,0 +1,67 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Games]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column AOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL
+         (18) NULL. Data loss could occur.
+       The type for column ATOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL
+         (18) NULL. Data loss could occur.
+       The type for column Coeff_1 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_2 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_GG in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_NG in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_O05 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_O15 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_O25 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_U25 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_U35 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_U45 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column Coeff_X in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+       The type for column HOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL
+         (18) NULL. Data loss could occur.
+       The type for column TB%GG in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL
+         (18) NULL. Data loss could occur.
+       The type for column TGG in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL (18)
+         NULL. Data loss could occur.
+       The type for column TOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL
+         (18) NULL. Data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Games] (Table)
+
+** Supporting actions
+
+The type for column AOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL (18) NULL. Data loss could occur.
+The type for column ATOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL (18) NULL. Data loss could occur.
+The type for column Coeff_1 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_2 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_GG in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_NG in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_O05 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_O15 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_O25 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_U25 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_U35 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_U45 in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column Coeff_X in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+The type for column HOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL (18) NULL. Data loss could occur.
+The type for column TB%GG in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL (18) NULL. Data loss could occur.
+The type for column TGG in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL (18) NULL. Data loss could occur.
+The type for column TOver25 in table [dbo].[Games] is currently  DECIMAL (18, 2) NULL but is being changed to  DECIMAL (18) NULL. Data loss could occur.
+

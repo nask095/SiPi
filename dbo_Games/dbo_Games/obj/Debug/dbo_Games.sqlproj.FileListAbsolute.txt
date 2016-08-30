@@ -1,0 +1,5 @@
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\dbo_Games\dbo_Games\bin\Debug\dbo_Games.dacpac
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\dbo_Games\dbo_Games\bin\Debug\dbo_Games.dll
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\dbo_Games\dbo_Games\bin\Debug\dbo_Games.pdb
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\dbo_Games\dbo_Games\obj\Debug\dbo_Games.dll
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\dbo_Games\dbo_Games\obj\Debug\dbo_Games.pdb

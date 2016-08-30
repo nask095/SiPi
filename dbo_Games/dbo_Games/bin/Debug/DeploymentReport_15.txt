@@ -1,0 +1,90 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Table1]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Table1].[Bet] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Date] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8val1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8val2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8val3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8val4] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8valB1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8valB2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8valB3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[F8valB4] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Fval1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Fval2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Fval3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Fval4] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[FvalB1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[FvalB2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[FvalB3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[FvalB4] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Game] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Result] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Sval1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Sval2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Sval3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Sval4] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[SvalB1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[SvalB2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[SvalB3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[SvalB4] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Time] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Val1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Val2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Val3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[Val4] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[ValB1] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[ValB2] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[ValB3] is being dropped, data loss could occur.
+       The column [dbo].[Table1].[ValB4] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Table1] (Table)
+
+** Supporting actions
+
+The column [dbo].[Table1].[Bet] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Date] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8val1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8val2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8val3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8val4] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8valB1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8valB2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8valB3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[F8valB4] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Fval1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Fval2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Fval3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Fval4] is being dropped, data loss could occur.
+The column [dbo].[Table1].[FvalB1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[FvalB2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[FvalB3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[FvalB4] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Game] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Result] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Sval1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Sval2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Sval3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Sval4] is being dropped, data loss could occur.
+The column [dbo].[Table1].[SvalB1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[SvalB2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[SvalB3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[SvalB4] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Time] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Val1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Val2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Val3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[Val4] is being dropped, data loss could occur.
+The column [dbo].[Table1].[ValB1] is being dropped, data loss could occur.
+The column [dbo].[Table1].[ValB2] is being dropped, data loss could occur.
+The column [dbo].[Table1].[ValB3] is being dropped, data loss could occur.
+The column [dbo].[Table1].[ValB4] is being dropped, data loss could occur.
+

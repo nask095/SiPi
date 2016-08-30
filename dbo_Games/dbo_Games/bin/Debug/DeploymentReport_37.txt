@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Games2].[Coeff] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Games2] (Table)
+     Create
+       [dbo].[Games] (Table)
+
+** Supporting actions
+
+The column [dbo].[Games2].[Coeff] is being dropped, data loss could occur.
+

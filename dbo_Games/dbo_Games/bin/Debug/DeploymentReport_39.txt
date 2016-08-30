@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Games]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column Coeff in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL
+         (18, 2) NULL. Data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Games] (Table)
+
+** Supporting actions
+
+The type for column Coeff in table [dbo].[Games] is currently  DECIMAL (18, 4) NULL but is being changed to  DECIMAL (18, 2) NULL. Data loss could occur.
+

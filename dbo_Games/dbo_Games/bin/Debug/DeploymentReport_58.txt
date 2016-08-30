@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Games]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Games].[A%Over25] is being dropped, data loss could occur.
+       The column [dbo].[Games].[AT%Over25] is being dropped, data loss could occur.
+       The column [dbo].[Games].[H%Over25] is being dropped, data loss could occur.
+       The column [dbo].[Games].[T%GG] is being dropped, data loss could occur.
+       The column [dbo].[Games].[T%Over25] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Games] (Table)
+
+** Supporting actions
+
+The column [dbo].[Games].[A%Over25] is being dropped, data loss could occur.
+The column [dbo].[Games].[AT%Over25] is being dropped, data loss could occur.
+The column [dbo].[Games].[H%Over25] is being dropped, data loss could occur.
+The column [dbo].[Games].[T%GG] is being dropped, data loss could occur.
+The column [dbo].[Games].[T%Over25] is being dropped, data loss could occur.
+

@@ -1,0 +1,14 @@
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\bin\Debug\games 2.0.exe.config
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\bin\Debug\games 2.0.exe
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\bin\Debug\games 2.0.pdb
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\games_2._0.Form1.resources
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\games_2._0.Properties.Resources.resources
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\games 2.0.csproj.GenerateResource.Cache
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\games 2.0.exe
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\games 2.0.pdb
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\games 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\games 2.0.csproj.ResolveComReference.cache
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Atanas\Documents\aubg\3 semester\other\games 2.0\games 2.0\obj\Debug\AxInterop.SHDocVw.dll
